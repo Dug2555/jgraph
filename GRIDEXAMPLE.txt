@@ -1,0 +1,25 @@
+newgraph
+
+xaxis min 0.5 max 6.5 no_draw_axis
+no_grid_lines no_draw_hash_marks no_auto_hash_labels
+
+yaxis min 0.5 max 7.5 no_draw_axis
+no_grid_lines no_draw_hash_marks no_auto_hash_labels
+
+newline pts 1.5 .5  1.5 7.5  
+newline pts 2.5 .5  2.5 7.5
+newline pts 3.5 .5  3.5 7.5
+newline pts 4.5 .5  4.5 7.5
+newline pts 5.5 .5  5.5 7.5
+newline pts 6.5 .5  6.5 7.5
+
+newline pts .5 1.5  7.5 1.5
+newline pts .5 2.5  7.5 2.5
+newline pts .5 3.5  7.5 3.5
+newline pts .5 4.5  7.5 4.5
+newline pts .5 5.5  7.5 5.5
+newline pts .5 6.5  7.5 6.5
+
+newline pts 0.5 0.5 0.5 7.5 7.5 7.5 7.5 0.5 0.5 0.5
+
+
