@@ -4,7 +4,7 @@ move or when one person wins the game.
 
 Project requires the os and numpy libraries
 
-Run by typing ./run.sh into linux terminal, will produce Folder called "Moves" with images of each move. Will also create a .gif of the game in the main folder called "out.gif"
+Run by typing ./run.sh into linux terminal.After the game completes it will produce a Folder called "Moves" with images of each move. It will also create a .gif of the game in the main folder called "out.gif"
 
 
 This code is based on James Plank's jgraphing software. It is utilzed to help visualize the game and the ending.
